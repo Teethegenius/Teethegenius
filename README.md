@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Teethegenius
+- 👀 I’m interested in learning and getting better eafch passing day in the internet space ...
+- 🌱 I’m currently learning Javscript,Python...
+- 💞️ I’m looking to collaborate on different language...
+
+<!---
+Teethegenius/Teethegenius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
